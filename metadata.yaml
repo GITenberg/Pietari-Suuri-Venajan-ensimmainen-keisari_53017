@@ -1,0 +1,24 @@
+_repo: Pietari-Suuri-Venajan-ensimmainen-keisari_53017
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindeqvist, K. O.
+    alias: Lindeqvist, Karl Olof
+    gutenberg_agent_id: '47174'
+    url: http://www.gutenberg.org/2009/agents/47174
+description: ''
+gutenberg_issued: '2016-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53017'
+  lccn: '77502488'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peter I, Emperor of Russia, 1672-1725'
+- !lcc 'DK'
+- GITenberg
+title: 'Pietari Suuri: Venäjän ensimmäinen keisari'
+url: http://www.gutenberg.org/ebooks/53017
